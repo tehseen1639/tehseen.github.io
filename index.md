@@ -26,9 +26,11 @@ I am a highly motivated and detail-oriented individual with a passion for creati
 
 ### SKILLS
 
-[x] **Programming**: _Python_, _Java_, _C++_, _JavaScript_, _HTML_/_CSS_
-[x] **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
-[x] **Operating Systems**: Windows, Linux, macOS
+- [x] **Programming**: _Python_, _Java_, _C++_, _JavaScript_, _HTML_/_CSS_
+
+- [x] **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
+
+- [x] **Operating Systems**: Windows, Linux, macOS
 
 
 ### PROJECTS
