@@ -10,7 +10,7 @@
 
 ## website: [website] "https://tehseen.com"
 
-## social media: [linkedin] "https://linkedin.com/in/tehseen
+## social media: [linkedin] "https://linkedin.com/in/tehseen"
 
 ### ABOUT
 
