@@ -30,7 +30,9 @@ I am a highly motivated and detail-oriented individual with a passion for creati
 
 - [x] **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 
-- [x] **Operating Systems**: Windows, Linux, macOS[!NOTE] still ongoing
+- [x] **Operating Systems**: Windows, Linux, macO
+ > [!NOTE]
+> macos is going on
 
 
 ### PROJECTS
